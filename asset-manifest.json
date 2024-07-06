@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/New-portfolio/static/css/main.75eabc9d.css",
+    "main.js": "/New-portfolio/static/js/main.cae09dff.js",
+    "static/media/bg3.jpg": "/New-portfolio/static/media/bg3.059d583c74c18c73482f.jpg",
+    "static/media/hamidd.png": "/New-portfolio/static/media/hamidd.8f421f551ea03997aeb3.png",
+    "static/media/sql.png": "/New-portfolio/static/media/sql.47b3f1a3a182496f6192.png",
+    "static/media/jsnew.png": "/New-portfolio/static/media/jsnew.99768f57ac923f2fe49e.png",
+    "static/media/react.png": "/New-portfolio/static/media/react.6d824f4b87cc638c82d5.png",
+    "static/media/java.png": "/New-portfolio/static/media/java.dfa3a21315efabecfc1e.png",
+    "static/media/css.png": "/New-portfolio/static/media/css.71220fd82073af17c27e.png",
+    "static/media/bootstrap.png": "/New-portfolio/static/media/bootstrap.9500226b5692843c17ef.png",
+    "static/media/netframe.png": "/New-portfolio/static/media/netframe.b15e1b124ec3db2ea64e.png",
+    "static/media/project1.png": "/New-portfolio/static/media/project1.f38391149bf74f84b44b.png",
+    "static/media/sriLanka.png": "/New-portfolio/static/media/sriLanka.c5266afa8f7afd0486bc.png",
+    "index.html": "/New-portfolio/index.html",
+    "main.75eabc9d.css.map": "/New-portfolio/static/css/main.75eabc9d.css.map",
+    "main.cae09dff.js.map": "/New-portfolio/static/js/main.cae09dff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75eabc9d.css",
+    "static/js/main.cae09dff.js"
+  ]
+}
