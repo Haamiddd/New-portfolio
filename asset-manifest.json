@@ -1,24 +1,31 @@
 {
   "files": {
-    "main.css": "/New-portfolio/static/css/main.75eabc9d.css",
-    "main.js": "/New-portfolio/static/js/main.cae09dff.js",
+    "main.css": "/New-portfolio/static/css/main.03d33674.css",
+    "main.js": "/New-portfolio/static/js/main.efda094d.js",
     "static/media/bg3.jpg": "/New-portfolio/static/media/bg3.059d583c74c18c73482f.jpg",
-    "static/media/hamidd.png": "/New-portfolio/static/media/hamidd.8f421f551ea03997aeb3.png",
+    "static/media/project2.png": "/New-portfolio/static/media/project2.398ed219e803e4ddc6ff.png",
+    "static/media/project3.jpg": "/New-portfolio/static/media/project3.c25f5a14f97ab07c8a24.jpg",
     "static/media/sql.png": "/New-portfolio/static/media/sql.47b3f1a3a182496f6192.png",
-    "static/media/jsnew.png": "/New-portfolio/static/media/jsnew.99768f57ac923f2fe49e.png",
-    "static/media/react.png": "/New-portfolio/static/media/react.6d824f4b87cc638c82d5.png",
+    "static/media/php.png": "/New-portfolio/static/media/php.e5bf642e8a6783ad3342.png",
+    "static/media/jsnew.png": "/New-portfolio/static/media/jsnew.e56b2137b65591bae8d7.png",
+    "static/media/react.png": "/New-portfolio/static/media/react.e6b6ddf9f3b3a6a5a682.png",
+    "static/media/hamidd.png": "/New-portfolio/static/media/hamidd.12a431a34bfa73af22a6.png",
     "static/media/java.png": "/New-portfolio/static/media/java.dfa3a21315efabecfc1e.png",
     "static/media/css.png": "/New-portfolio/static/media/css.71220fd82073af17c27e.png",
-    "static/media/bootstrap.png": "/New-portfolio/static/media/bootstrap.9500226b5692843c17ef.png",
+    "static/media/tailwindcss.png": "/New-portfolio/static/media/tailwindcss.919203b3ab24307a2454.png",
     "static/media/netframe.png": "/New-portfolio/static/media/netframe.b15e1b124ec3db2ea64e.png",
     "static/media/project1.png": "/New-portfolio/static/media/project1.f38391149bf74f84b44b.png",
     "static/media/sriLanka.png": "/New-portfolio/static/media/sriLanka.c5266afa8f7afd0486bc.png",
+    "static/media/git.png": "/New-portfolio/static/media/git.2c5c851de594c11828ac.png",
+    "static/media/python.png": "/New-portfolio/static/media/python.c038d6e950c57ddc3d03.png",
+    "static/media/bootstrap.png": "/New-portfolio/static/media/bootstrap.be96b39cf3f108ab24a8.png",
+    "static/media/html.png": "/New-portfolio/static/media/html.f7d99c9889d2d6e2c500.png",
     "index.html": "/New-portfolio/index.html",
-    "main.75eabc9d.css.map": "/New-portfolio/static/css/main.75eabc9d.css.map",
-    "main.cae09dff.js.map": "/New-portfolio/static/js/main.cae09dff.js.map"
+    "main.03d33674.css.map": "/New-portfolio/static/css/main.03d33674.css.map",
+    "main.efda094d.js.map": "/New-portfolio/static/js/main.efda094d.js.map"
   },
   "entrypoints": [
-    "static/css/main.75eabc9d.css",
-    "static/js/main.cae09dff.js"
+    "static/css/main.03d33674.css",
+    "static/js/main.efda094d.js"
   ]
 }
